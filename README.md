@@ -1,4 +1,4 @@
-GridWorld Environment and Imitation Learning
+**GridWorld Environment and Imitation Learning**
 
 A Reinforcement Learning project implementing a GridWorld environment with Behavioral Cloning (BC) and DAgger (Dataset Aggregation) for imitation learning. This project trains an agent to navigate a grid-based world while avoiding obstacles and following an expert policy.
 
